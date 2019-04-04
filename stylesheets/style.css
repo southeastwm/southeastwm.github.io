@@ -1,0 +1,181 @@
+body {
+  background-color: #333;
+  color: #fff; }
+
+  .article-body{
+    background-color: #fcf8fa;
+    color: #333;
+
+}
+
+.navbar {
+  opacity: 0.8; }
+
+  .navbar{
+    background-color: #2f2250;
+    border-bottom:#2f2250 3px solid;
+    opacity: 0.9;
+}
+
+.articlenavbar{
+    background-color: #2f2250;
+    border-bottom:#2f2250 3px solid;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+
+.nav-item1{
+    color:#fff
+}
+
+.navbarCollapse{
+    top:100px;
+}
+
+#home-section{
+    background:url('../images/exploreImg1.jpg')no-repeat;
+    min-height:900px;
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+.dark-overlay{
+    background-color:rgba(0,0,0,0.3);
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    min-height:900px;
+}
+
+.home-inner{
+    padding-top:150px;
+}
+
+.card-form{
+    background-color: #2f2250;
+    opacity:0.8;
+}
+
+
+.fa2{
+    color:#fff;
+    background:#333;
+    padding:4px;
+    border-radius:5px;
+    font-size:30px;    
+    }
+
+.navImg{
+    width:150px;
+    height:106px;
+}
+
+#bragbar-section{
+    color:#333;
+    opacity:0.8;
+    position:absolute;
+    top:600px;
+    left:0;
+    width:100%;
+    height: 100px;
+    display:flex;
+
+}
+
+
+.bragC {
+    padding: 20px 0 20px 0;
+    text-align: center;
+}
+
+.imagecolumn{
+    display:inline-block;
+}
+
+
+
+.moneyadvice{
+    width:60px;
+    height: 60px;
+    margin-right:125px;
+}
+
+.ombudsman{
+    width:150px;
+    height: 60px;
+    margin-right:125px;
+}
+
+.cisi{
+    width:100px;
+    height: 60px;
+    margin-right:125px;
+}
+
+.invicta{
+    width:100px;
+    height: 60px;
+    
+}
+
+
+
+
+.loginImg{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%
+}
+
+.create::before {
+    content: "";
+    display: block;
+    height: 135px; /* fixed header height*/
+    margin: -135px 0 0; /* negative fixed header height */
+}
+
+.finplan::before {
+    content: "";
+    display: block;
+    height: 135px; /* fixed header height*/
+    margin: -135px 0 0; /* negative fixed header height */
+}
+
+.articleSection::before {
+    content: "";
+    display: block;
+    height: 135px; /* fixed header height*/
+    margin: 0 0 0; /* negative fixed header height */
+
+}
+
+.footer{
+    height:125px;
+    background-color: #2f2250;
+    padding: 25px 0 0 0;
+}
+
+.booking{
+    margin-top: 135px;
+}
+
+.hr{
+    height: 3px;
+    color:#282933;
+}
+
+.h3{
+    text-align:center;
+}
+
+.mc_embed_signup_scroll{
+    color:#333;
+}
+
+.Subbtn{
+    background-color: #ffb900;
+}
