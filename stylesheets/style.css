@@ -1,5 +1,5 @@
 body {
-  background-color: #333;
+  background-color: #282933;
   color: #fff; }
 
   .article-body{
@@ -8,13 +8,21 @@ body {
 
 }
 
+.top-navigation-wrapper{
+     background-color: #282933;
+}
+
+.gdkd-text-block{
+    background-color: #282933;
+}
+
 .navbar {
   opacity: 0.8; }
 
   .navbar{
     background-color: #2f2250;
     border-bottom:#2f2250 3px solid;
-    opacity: 0.9;
+    opacity: 0.8;
 }
 
 .articlenavbar{
@@ -155,7 +163,7 @@ body {
 
 .footer{
     height:125px;
-    background-color: #2f2250;
+    background-color: #282933;
     padding: 25px 0 0 0;
 }
 
